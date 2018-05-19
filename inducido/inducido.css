@@ -1,0 +1,22 @@
+
+/* blockUI */
+
+.blocked_content {
+	margin-left:auto;margin-right:auto;
+}
+	
+.blocked_content span,
+.blocked_content img  {
+	width:129px ;
+	height:20px ;
+	float: none;
+
+	background: #000 url(./ani-processing.gif)  no-repeat;
+}
+
+
+
+div.blockUI > h2
+{
+	color: "#065A7A";
+}
